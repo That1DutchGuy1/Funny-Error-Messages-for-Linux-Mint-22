@@ -25,13 +25,13 @@ DIALOG_SOUND="home/YourUsername/crash-button-sounds/xpcrtstp.wav"
 # 🔊 BUTTON SOUNDS
 # =============================================================================
 declare -A BUTTON_SOUNDS
-BUTTON_SOUNDS["DINNER"]="home/YourUsername/crash-button-sounds/Dinner.mp3"
-BUTTON_SOUNDS["PINGAS"]="home/YourUsername/crash-button-sounds/Pingas.mp3"
-BUTTON_SOUNDS["SPAGHETTI"]="home/YourUsername/crash-button-sounds/spaghetti.mp3"
-BUTTON_SOUNDS["MAH BOI"]="home/YourUsername/crash-button-sounds/Mah-Boi.mp3"
-BUTTON_SOUNDS["TOAST"]="home/YourUsername/crash-button-sounds/toast.mp3"
-BUTTON_SOUNDS["SQUADALA"]="home/YourUsername/crash-button-sounds/Squadala.mp3"
-BUTTON_SOUNDS["BILLY MAYS"]="home/YourUsername/crash-button-sounds/Billy-Mays.mp3"
+BUTTON_SOUNDS["DINNER"]="/home/YourUsername/crash-button-sounds/Dinner.mp3"
+BUTTON_SOUNDS["PINGAS"]="/home/YourUsername/crash-button-sounds/Pingas.mp3"
+BUTTON_SOUNDS["SPAGHETTI"]="/home/YourUsername/crash-button-sounds/spaghetti.mp3"
+BUTTON_SOUNDS["MAH BOI"]="/home/YourUsername/crash-button-sounds/Mah-Boi.mp3"
+BUTTON_SOUNDS["TOAST"]="/home/YourUsername/crash-button-sounds/toast.mp3"
+BUTTON_SOUNDS["SQUADALA"]="/home/YourUsername/crash-button-sounds/Squadala.mp3"
+BUTTON_SOUNDS["BILLY MAYS"]="/home/YourUsername/crash-button-sounds/Billy-Mays.mp3"
 BUTTON_SOUNDS["MAMA LUIGI"]="/home/YourUsername/crash-button-sounds/Mama-luigi.mp3"
 
 # =============================================================================
