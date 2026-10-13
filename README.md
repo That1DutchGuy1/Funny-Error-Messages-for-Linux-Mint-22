@@ -1,0 +1,1 @@
+# Funny-Error-Messages-for-Linux-Mint-22
